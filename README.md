@@ -18,3 +18,7 @@ Git clone:
 Update submodule:
 1. `cd <submodule>`
 2. `git pull`
+
+## Run
+
+Please refer to [kafka-docker-readme](https://github.com/wurstmeister/kafka-docker)
