@@ -21,4 +21,6 @@ Update submodule:
 
 ## Run
 
-Please refer to [kafka-docker-readme](https://github.com/wurstmeister/kafka-docker)
+1. Please refer to [kafka-docker-readme](https://github.com/wurstmeister/kafka-docker)
+2. Use `server.properties` to overwrite the kafka config
+3. Use `docker-compose.yml` to run kafka service
