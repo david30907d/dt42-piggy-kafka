@@ -12,8 +12,8 @@ log.retention.hours=2
 ## Install
 
 Git clone:
-1. `git clone --recursive`
-2. `git clone; git submodule update --init`
+* `git clone --recursive <url>`
+* or: `git clone <url>; cd <project>; git submodule update --init`
 
 Update submodule:
 1. `cd <submodule>`
